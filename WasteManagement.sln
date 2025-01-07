@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasteManagement.Server", "WasteManagement.Server\WasteManagement.Server.csproj", "{753A6EEB-4419-4F72-BD38-F81988D7B663}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "wastemanagement.client", "wastemanagement.client\wastemanagement.client.esproj", "{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753A6EEB-4419-4F72-BD38-F81988D7B663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753A6EEB-4419-4F72-BD38-F81988D7B663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753A6EEB-4419-4F72-BD38-F81988D7B663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753A6EEB-4419-4F72-BD38-F81988D7B663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C1DAB1-D3EB-4B78-82E8-C81018B64EBB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A86B000-8BD0-41A6-96DF-297CB68EC500}
+	EndGlobalSection
+EndGlobal
